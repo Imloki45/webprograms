@@ -2,7 +2,7 @@
 	<head>
 		<script>
 			var a=[3,2,1];
-			a.sort();
+			a.sort()
 			document.writeln(a);
 		</script>
 	<head>
