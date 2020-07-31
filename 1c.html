@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body onload=alert("Lokesh")>
+    <input type="text" onfocus="myfunction(this.id)" id="t">
+    <input type="text" onblur="myf()" id="l">
+    <script>
+        document.writeln('Welcome'+'<br>'+new Date);
+        function myfunction(x){
+          document.getElementById(x).style.backgroundColor="blue";
+        }
+        function myf(){
+         document.getElementById("l").value.toUpperCase();
+        
+        }
+        
+      </script>
+</body>
+</html>

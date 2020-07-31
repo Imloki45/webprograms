@@ -1,0 +1,21 @@
+<?xml-stylesheet href="10.xsl" type="text/xsl"?>
+<students>
+<student>
+<id>15</id>
+<name>kali</name>
+<bdate>03-07-1999</bdate>
+<marks>85%</marks>
+</student>
+<student>
+<id>34</id>
+<name>sravan</name>
+<bdate>04-02-2000</bdate>
+<marks>88%</marks>
+</student>
+<student>
+<id>45</id>
+<name>lokesh</name>
+<bdate>25-10-1999</bdate>
+<marks>90%</marks>
+</student>
+</students>
